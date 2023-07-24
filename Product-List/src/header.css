@@ -1,0 +1,41 @@
+.Navbar{
+    display: flex;
+    justify-content: space-around;
+    height: 30px;
+}
+.left-nav{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.right-nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    gap: 25px;
+    color: gray;
+    font-style: normal;
+
+}
+.left-nav {
+    display: flex;
+    gap: 10%;
+}
+.left-nav input{
+    color: gray;
+    border-radius: 1%;
+    border-color: gray;
+    outline-color: gray;
+  
+}
+.img1{
+    height: 30px;
+    width: 60px;
+}
+.box h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
